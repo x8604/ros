@@ -10,7 +10,7 @@ catkin_make
 - Tao 1 package ROS moi:
 ```
 cd ~/catkin_ws/src
-catkin_create_pkg <ten-package> <cac-goi-message>
+catkin_create_pkg <ten-package> <ten-cac-mo-dun-ros>
 cd <ten-package>
 ```
 
