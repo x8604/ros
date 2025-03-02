@@ -21,7 +21,7 @@ cd scripts
 code <ten-file>.py
 ```
 
-- Cap quyen thuc thi cho tep vua tao:
+- Cap quyen thuc thi cho file:
 ```
 chmod +x ~/catkin_ws/src/<ten-package>/scripts/<ten-file>.py
 ```
